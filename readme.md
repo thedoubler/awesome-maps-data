@@ -37,28 +37,28 @@
 * https://www.oldmapsonline.org - Discover Cartography of the past.
 * https://maps.arcanum.com/en - Historical maps of several countries.
 * https://omnesviae.org - Reconstruction of antique Roman Map with Route Planner.
-* https://whc.unesco.org/en/interactive-map - World Interactive Hertiage Map
+* https://whc.unesco.org/en/interactive-map - World Interactive Hertiage Map.
 * https://histography.io/ - “Histography" is interactive timeline that spans across 14 billion years of history, from the Big Bang to 2015.
 * https://ybogdanov.github.io/history-timeline/ - The history of the world in famous people’s lifespan.
-* https://worldpopulationhistory.org - World Population History Map - Interactive way of visualizing population from year 1 to 2050 projections
+* https://worldpopulationhistory.org - World Population History Map - Interactive way of visualizing population from year 1 to 2050 projections.
 * https://earthengine.google.com/timelapse -  Google Earth Timelapse is a global, zoomable video that lets you see how the Earth has changed since 1984.
 
 
 ## Forest
 
-- https://www.globalforestwatch.org/map - Global free, real-time data, technology and tools for monitoring the world's forests, enabling better protection against illegal activities
+- https://www.globalforestwatch.org/map - Global free, real-time data, technology and tools for monitoring the world's forests, enabling better protection against illegal activities.
 
 ## Future
 
-* https://www.futuretimeline.net - Browse how the future can be
+* https://www.futuretimeline.net - Browse how the future can be.
 * https://2050.earth - Earth 2050 - A glimpse into the future.
 
 
 ## Marine  
 
-* https://www.marinetraffic.com 
-* https://www.myshiptracking.com
-* https://www.vesselfinder.com
+* https://www.marinetraffic.com - Marine Traffic  
+* https://www.myshiptracking.com - Ship Tracking
+* https://www.vesselfinder.com - Vessel Finder
 * https://www.shipmap.org - You can see movements of the global merchant fleet over the course of 2012 through a nice story
 
 ## Music 
@@ -75,7 +75,7 @@
 * https://maps.esri.com/rc/sat2/index.html - Satellite Map - See about 19K satellites.
 * http://stuffin.space - Stuff in Space - Search for objects in 3D Earth orbit.
 * https://stars.chromeexperiments.com - Browse Solar System.
-* https://www.astroviewer.net/iss/en - International Space Station Tracker .
+* https://www.astroviewer.net/iss/en - International Space Station Tracker.
 * https://satellitetracker.net - 3D ISS Tracker.
  
 
@@ -120,12 +120,12 @@
 * https://www.plugshare.com - Find your EV Charging Station Map.
 * https://worldpoverty.io - World Poverty Map.
 * https://population.io - World Populations map.
-* http://www.fao.org/gfcm/data/maps/fras/en - Fishery Restricted Areas Map
-* https://hungermap.wfp.org - World Hunger Live Map by World Food Programme
-* http://www.atlas.d-waste.com - Waste Atlas - See fraction percentage of organic, plastic and much more by country
-* https://www.openrailwaymap.org - Open Railway Map 
-* https://www.lightpollutionmap.info - Earth Light Pollution Map
-* https://worldwater.io - World Water Scarcity
+* http://www.fao.org/gfcm/data/maps/fras/en - Fishery Restricted Areas Map.
+* https://hungermap.wfp.org - World Hunger Live Map by World Food Programme.
+* http://www.atlas.d-waste.com - Waste Atlas - See fraction percentage of organic, plastic and much more by country.
+* https://www.openrailwaymap.org - Open Railway Map.
+* https://www.lightpollutionmap.info - Earth Light Pollution Map.
+* https://worldwater.io - World Water Scarcity.
 * https://mol.org/regions - Map of life, search across from different life form from conifers to birds.
 * https://internet-map.net - World Internet Map - A website circle on the map, and its size is determined by website traffic.
 * https://map.onesoil.ai - Global agricultural insights map.
@@ -133,17 +133,17 @@
 * https://www.pingdom.com/outages - Live broadcast of Internet statistics.
 * https://www.infrapedia.com/app - Global Internet Infrastructure map (needs login)
 * https://turbinemap.wab-s.de  - World Wind Turbine Map.
-* http://www.leretourdelautruche.com/map/nuke - Nuclear Sectors around the world 
+* http://www.leretourdelautruche.com/map/nuke - Nuclear Sectors around the world.
 
 
 ## Others 
 
-* https://virtualvacation.us - Fly, Walk, Drive on Virtual Vacation
-* https://giza.mused.org/en/guided/266/inside-the-great-pyramid - Visit inside the Great Pyramid
-* https://www.magicmushroommap.com/map - Magic Mushroom map
-* https://chir.ag/projects/tip-of-my-tongue - Tip of My Tongue
+* https://virtualvacation.us - Fly, Walk, Drive on Virtual Vacation.
+* https://giza.mused.org/en/guided/266/inside-the-great-pyramid - Visit inside the Great Pyramid.
+* https://www.magicmushroommap.com/map - Magic Mushroom map.
+* https://chir.ag/projects/tip-of-my-tongue - Tip of My Tongue.
 Find that word that you've been thinking about all day but just can't seem to remember.
-* https://iconmap.io - World's biggest collection of Fav Icon map
+* https://iconmap.io - World's biggest collection of Fav Icon map.
 
 
 
