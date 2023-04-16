@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Make sure you add into a good category
+- Make sure you website it's working
+- And make sure your website it awesome
 
 Thank you for your suggestions!
 
