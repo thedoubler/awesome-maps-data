@@ -74,7 +74,7 @@
 * https://spectator.earth - Track earth-imaging satellites.
 * https://maps.esri.com/rc/sat2/index.html - Satellite Map - See about 19K satellites.
 * http://stuffin.space - Stuff in Space - Search for objects in 3D Earth orbit.
-* https://stars.chromeexperiments.com - Browse Solar System.
+* https://stars.chromeexperiments.com - 3D visualization of the stellar neighborhood over 100K stars
 * https://www.astroviewer.net/iss/en - International Space Station Tracker.
 * https://satellitetracker.net - 3D ISS Tracker.
  
