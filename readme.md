@@ -25,7 +25,7 @@
 
 * https://bitnodes.io - Estimating Bitcoin's peer-to-peer network size by identifying reachable nodes.
 
-## Cyber Threat  
+## Cyber Threat Live Map
 
 * https://threatmap.bitdefender.com 
 * https://threatmap.checkpoint.com 
