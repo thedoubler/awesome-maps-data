@@ -110,7 +110,7 @@
 
 *  https://www.submarinecablemap.com - World Submarine Cable Map.
 * https://globe.gl/example/submarine-cables - 3D Earth submarine cable map.
-* https://wigle.net - Map with all WiFi networks found by everyone.
+* https://wigle.net - Map with all networks found by everyone.
 * https://wheelmap.org - Finding wheelchair accessible place map.
 * https://openinframap.org - World Infrastructure Map.
 * https://opencampingmap.org - All camping sites in the world map.
