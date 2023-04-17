@@ -49,6 +49,7 @@
 
 * https://www.globalforestwatch.org/map - Global free, real-time data, technology and tools for monitoring the world's forests, enabling better protection against illegal activities.
 * https://plasticnavigator.wwf.de/#/en/stories/ - Plastic navigation map.
+* https://coastal.climatecentral.org/map/ - Water Level Rising Simulation Tool Map
 
 ## Future
 
