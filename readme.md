@@ -117,7 +117,7 @@
 * https://population.io - World Populations map.
 * https://worldwater.io - World Water Scarcity.
 * https://www.submarinecablemap.com - World Submarine Cable Map.
-* * https://hungermap.wfp.org - World Hunger Live Map by World Food Programme.
+* https://hungermap.wfp.org - World Hunger Live Map by World Food Programme.
 * https://globe.gl/example/submarine-cables - 3D Earth submarine cable map.
 * https://wigle.net - Map with all networks found by everyone.
 * https://wheelmap.org - Finding wheelchair accessible place map.
@@ -147,8 +147,7 @@
 * https://virtualvacation.us - Fly, Walk, Drive on Virtual Vacation.
 * https://giza.mused.org/en/guided/266/inside-the-great-pyramid - Visit inside the Great Pyramid.
 * https://www.magicmushroommap.com/map - Magic Mushroom map.
-* https://chir.ag/projects/tip-of-my-tongue - Tip of My Tongue.
-Find that word that you've been thinking about all day but just can't seem to remember.
+* https://chir.ag/projects/tip-of-my-tongue - Tip of My Tongue. Find that word that you've been thinking about all day but just can't seem to remember.
 * https://iconmap.io - World's biggest collection of Fav Icon map.
 
 
