@@ -45,9 +45,10 @@
 * https://earthengine.google.com/timelapse -  Google Earth Timelapse is a global, zoomable video that lets you see how the Earth has changed since 1984.
 
 
-## Forest
+## Environment
 
-- https://www.globalforestwatch.org/map - Global free, real-time data, technology and tools for monitoring the world's forests, enabling better protection against illegal activities.
+* https://www.globalforestwatch.org/map - Global free, real-time data, technology and tools for monitoring the world's forests, enabling better protection against illegal activities.
+* https://plasticnavigator.wwf.de/#/en/stories/ - Plastic navigation map.
 
 ## Future
 
