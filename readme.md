@@ -24,7 +24,7 @@
 ## Crypto 
 
 * https://bitnodes.io - Estimating Bitcoin's peer-to-peer network size by identifying reachable nodes.
-* https://ccaf.io/cbeci/mining_map - Bitcoing Mining Mao
+* https://ccaf.io/cbeci/mining_map - Bitcoing Mining Map.
 
 ## Cyber Threat Live Map
 
