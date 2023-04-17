@@ -33,18 +33,6 @@
 * https://cybermap.kaspersky.com
 
 
-## History
-
-* https://www.oldmapsonline.org - Discover Cartography of the past.
-* https://maps.arcanum.com/en - Historical maps of several countries.
-* https://omnesviae.org - Reconstruction of antique Roman Map with Route Planner.
-* https://whc.unesco.org/en/interactive-map - World Interactive Hertiage Map.
-* https://histography.io/ - “Histography" is interactive timeline that spans across 14 billion years of history, from the Big Bang to 2015.
-* https://ybogdanov.github.io/history-timeline/ - The history of the world in famous people’s lifespan.
-* https://worldpopulationhistory.org - World Population History Map - Interactive way of visualizing population from year 1 to 2050 projections.
-* https://earthengine.google.com/timelapse -  Google Earth Timelapse is a global, zoomable video that lets you see how the Earth has changed since 1984.
-
-
 ## Environment
 
 * https://www.globalforestwatch.org/map - Global free, real-time data, technology and tools for monitoring the world's forests, enabling better protection against illegal activities.
@@ -55,6 +43,17 @@
 
 * https://www.futuretimeline.net - Browse how the future can be.
 * https://2050.earth - Earth 2050 - A glimpse into the future.
+
+## History
+
+* https://www.oldmapsonline.org - Discover Cartography of the past.
+* https://maps.arcanum.com/en - Historical maps of several countries.
+* https://omnesviae.org - Reconstruction of antique Roman Map with Route Planner.
+* https://whc.unesco.org/en/interactive-map - World Interactive Hertiage Map.
+* https://histography.io/ - “Histography" is interactive timeline that spans across 14 billion years of history, from the Big Bang to 2015.
+* https://ybogdanov.github.io/history-timeline/ - The history of the world in famous people’s lifespan.
+* https://worldpopulationhistory.org - World Population History Map - Interactive way of visualizing population from year 1 to 2050 projections.
+* https://earthengine.google.com/timelapse -  Google Earth Timelapse is a global, zoomable video that lets you see how the Earth has changed since 1984.
 
 
 ## Marine  
@@ -149,6 +148,7 @@
 * https://www.magicmushroommap.com/map - Magic Mushroom map.
 * https://chir.ag/projects/tip-of-my-tongue - Tip of My Tongue. Find that word that you've been thinking about all day but just can't seem to remember.
 * https://iconmap.io - World's biggest collection of Fav Icon map.
+* https://hoodmaps.com - Neighbour hoodmaps
 
 
 
