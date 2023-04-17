@@ -70,7 +70,7 @@
 * https://musicmap.info - Browse music genres genealogy and history in one dynamic map.
 * https://www.music-map.com - Music Map - Enter an artist name an see their colaborations.
 * http://radio.garden - Browse all radios across the in 3D Globe.
-* https://everynoise.com - Every Noise Map
+* https://everynoise.com - Every Noise Map - musical genre-space based on Spotify data
 
 ## Space 
 
