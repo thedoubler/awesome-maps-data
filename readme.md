@@ -111,7 +111,12 @@
 
 ## World 
 
-*  https://www.submarinecablemap.com - World Submarine Cable Map.
+
+* https://worldpoverty.io - World Poverty Map.
+* https://population.io - World Populations map.
+* https://worldwater.io - World Water Scarcity.
+* https://www.submarinecablemap.com - World Submarine Cable Map.
+* * https://hungermap.wfp.org - World Hunger Live Map by World Food Programme.
 * https://globe.gl/example/submarine-cables - 3D Earth submarine cable map.
 * https://wigle.net - Map with all networks found by everyone.
 * https://wheelmap.org - Finding wheelchair accessible place map.
@@ -121,14 +126,10 @@
 * https://app.shadowmap.org - World Shadow Map - See realtime shadows of building around the world.
 * https://maps-for-free.com - Free worldwide relief maps and other layers.
 * https://www.plugshare.com - Find your EV Charging Station Map.
-* https://worldpoverty.io - World Poverty Map.
-* https://population.io - World Populations map.
 * http://www.fao.org/gfcm/data/maps/fras/en - Fishery Restricted Areas Map.
-* https://hungermap.wfp.org - World Hunger Live Map by World Food Programme.
 * http://www.atlas.d-waste.com - Waste Atlas - See fraction percentage of organic, plastic and much more by country.
 * https://www.openrailwaymap.org - Open Railway Map.
 * https://www.lightpollutionmap.info - Earth Light Pollution Map.
-* https://worldwater.io - World Water Scarcity.
 * https://mol.org/regions - Map of life, search across from different life form from conifers to birds.
 * https://internet-map.net - World Internet Map - A website circle on the map, and its size is determined by website traffic.
 * https://map.onesoil.ai - Global agricultural insights map.
@@ -137,6 +138,7 @@
 * https://www.infrapedia.com/app - Global Internet Infrastructure map (needs login)
 * https://turbinemap.wab-s.de  - World Wind Turbine Map.
 * http://www.leretourdelautruche.com/map/nuke - Nuclear Sectors around the world.
+* http://www.mapillary.com/app - Streetview-on-street hover Map.
 
 
 ## Others 
