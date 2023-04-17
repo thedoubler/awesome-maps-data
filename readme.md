@@ -12,6 +12,7 @@
 * https://ourairports.com/navaids - Map with over 40K airports in the world.
 * https://www.dronesafetymap.com - Fly your drone safety map. 
 * https://sondehub.org - Live tracking of radiosonde flights.
+* https://adsbexchange.com - ADS-B Data Exchange map.
 
 
 ## Animals 
