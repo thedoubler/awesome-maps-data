@@ -24,6 +24,7 @@
 ## Crypto 
 
 * https://bitnodes.io - Estimating Bitcoin's peer-to-peer network size by identifying reachable nodes.
+* https://ccaf.io/cbeci/mining_map - Bitcoing Mining Mao
 
 ## Cyber Threat Live Map
 
@@ -56,10 +57,11 @@
 
 ## Marine  
 
-* https://www.marinetraffic.com - Marine Traffic  
-* https://www.myshiptracking.com - Ship Tracking
-* https://www.vesselfinder.com - Vessel Finder
-* https://www.shipmap.org - You can see movements of the global merchant fleet over the course of 2012 through a nice story
+* http://opennauticalchart.org/ - Nautical Charts World Map.
+* https://www.marinetraffic.com - Marine Traffic.
+* https://www.myshiptracking.com - Ship Tracking.
+* https://www.vesselfinder.com - Vessel Finder.
+* https://www.shipmap.org - You can see movements of the global merchant fleet over the course of 2012 through a nice story.
 
 ## Music 
 
