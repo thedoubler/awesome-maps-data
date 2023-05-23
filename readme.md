@@ -109,13 +109,13 @@
 
 ## Sports
 
-- https://www.strava.com/heatmap - you can see 'heat' made by aggregated, public activities over the last year for sports.
-- https://www.opencyclemap.org - The OpenCycleMap global cycling map is based on data from the OSM project. 
-- https://www.bikemap.net - Browse for 11.1 million bike paths.
-- https://musclewiki.com - Browse muscle group and start doing exercises.
-- https://www.opensnowmap.org - Worldwide ski map.
-- https://www.worldstadiumdatabase.com/map-of-world-stadiums.htm - World Stadium Map.
-- https://paraglidingearth.com/ - Free paragliding sites map.
+* https://www.strava.com/heatmap - you can see 'heat' made by aggregated, public activities over the last year for sports.
+* https://www.opencyclemap.org - The OpenCycleMap global cycling map is based on data from the OSM project. 
+* https://www.bikemap.net - Browse for 11.1 million bike paths.
+* https://musclewiki.com - Browse muscle group and start doing exercises.
+* https://www.opensnowmap.org - Worldwide ski map.
+* https://www.worldstadiumdatabase.com/map-of-world-stadiums.htm - World Stadium Map.
+* https://paraglidingearth.com/ - Free paragliding sites map.
 
 
 ## Weather
