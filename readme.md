@@ -17,7 +17,7 @@
 - [Space](#space)
 - [Software](#software)
 - [Sports](#sports)
-- [Weather](#sports)
+- [Weather](#weather)
 - [World](#world)
 - [Others](#others)
 
