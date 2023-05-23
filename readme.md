@@ -179,5 +179,6 @@
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/ )
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://github.com/thedoubler/awesome-maps-data/community/license/new?branch=main&template=cc0-1.0)
+
 
