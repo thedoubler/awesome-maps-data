@@ -157,8 +157,3 @@
 * https://iconmap.io - World's biggest collection of Fav Icon map.
 * https://hoodmaps.com - Neighbour hoodmaps
 
-
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
