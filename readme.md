@@ -1,7 +1,25 @@
 # Awesome Maps+Data [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated dynamic collection of websites offer a interesting and interactive experience for users. With real-time data, engaging maps, and visually stunning data visualizations, this collection is a treasure for enthusiasts of air industry, space, history, world statistics and more!
+> A curated dynamic collection of websites offer a interesting and interactive experience for users. With real-time data (most of it), engaging maps, and visually stunning data visualizations, this collection is a treasure for enthusiasts of air industry, space, history, world statistics and more!
 
+
+## Contents
+
+- [Aero](#aero)
+- [Animals](#animals)
+- [Crypto](#crypto)
+- [Cyber Threat Live Map](#cyber-threat-live-map)
+- [Environment](#environment)
+- [Future](#future)
+- [History](#history)
+- [Marine](#marine)
+- [Music](#music)
+- [Space](#space)
+- [Software](#software)
+- [Sports](#sports)
+- [Weather](#sports)
+- [World](#world)
+- [Others](#others)
 
 
 ## Aero
