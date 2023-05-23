@@ -147,7 +147,7 @@
 * https://wheelmap.org - Finding wheelchair accessible place map.
 * https://openinframap.org - World Infrastructure Map.
 * https://opencampingmap.org - All camping sites in the world map.
-* http://everymountainintheworld.com - Literally mountain peak in the world (Be careful, it’s loading slow)
+* http://everymountainintheworld.com - Literally mountain peak in the world (Be careful, it's loading slow)
 * https://app.shadowmap.org - World Shadow Map - See realtime shadows of building around the world.
 * https://maps-for-free.com - Free worldwide relief maps and other layers.
 * https://www.plugshare.com - Find your EV Charging Station Map.
