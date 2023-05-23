@@ -71,7 +71,7 @@
 * https://omnesviae.org - Reconstruction of antique Roman Map with Route Planner.
 * https://whc.unesco.org/en/interactive-map - World Interactive Hertiage Map.
 * https://histography.io/ - "Histography" is interactive timeline that spans across 14 billion years of history, from the Big Bang to 2015.
-* https://ybogdanov.github.io/history-timeline/ - The history of the world in famous people’s lifespan.
+* https://ybogdanov.github.io/history-timeline/ - The history of the world in famous people's lifespan.
 * https://worldpopulationhistory.org - World Population History Map - Interactive way of visualizing population from year 1 to 2050 projections.
 * https://earthengine.google.com/timelapse -  Google Earth Timelapse is a global, zoomable video that lets you see how the Earth has changed since 1984.
 
