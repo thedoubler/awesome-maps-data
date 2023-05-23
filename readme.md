@@ -104,7 +104,7 @@
  
 ## Software 
 
-* https://anvaka.github.io/map-of-github/ - Very nice map with continents of all Github projects
+* https://anvaka.github.io/map-of-github/ - Very nice map with continents of all GitHub projects
 * https://anvaka.github.io/pm/#/galaxy/ - Code Galaxies of package managers
 
 ## Sports
