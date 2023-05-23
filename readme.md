@@ -5,21 +5,21 @@
 
 ## Contents
 
-- [Aero](#aero)
-- [Animals](#animals)
-- [Crypto](#crypto)
-- [Cyber Threat Live Map](#cyber-threat-live-map)
-- [Environment](#environment)
-- [Future](#future)
-- [History](#history)
-- [Marine](#marine)
-- [Music](#music)
-- [Space](#space)
-- [Software](#software)
-- [Sports](#sports)
-- [Weather](#weather)
-- [World](#world)
-- [Others](#others)
+* [Aero](#aero)
+* [Animals](#animals)
+* [Crypto](#crypto)
+* [Cyber Threat Live Map](#cyber-threat-live-map)
+* [Environment](#environment)
+* [Future](#future)
+* [History](#history)
+* [Marine](#marine)
+* [Music](#music)
+* [Space](#space)
+* [Software](#software)
+* [Sports](#sports)
+* [Weather](#weather)
+* [World](#world)
+* [Others](#others)
 
 
 ## Aero
@@ -36,9 +36,9 @@
 
 ## Animals 
 
-- https://www.ocearch.org/tracker - Shark Tracker.
-- https://citizensgbr.org/explore/reef-tracks/ctrc-dianne - Turtle Tracker.
-- https://www.movebank.org/cms/webapp - Animal movements tracking data.
+* https://www.ocearch.org/tracker - Shark Tracker.
+* https://citizensgbr.org/explore/reef-tracks/ctrc-dianne - Turtle Tracker.
+* https://www.movebank.org/cms/webapp - Animal movements tracking data.
 
 
 ## Crypto 
