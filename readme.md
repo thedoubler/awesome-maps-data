@@ -175,3 +175,9 @@
 * https://iconmap.io - World's biggest collection of Fav Icon map.
 * https://hoodmaps.com - Neighbour hoodmaps
 
+
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/ )
+
