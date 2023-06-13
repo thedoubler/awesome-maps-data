@@ -165,6 +165,7 @@
 * https://turbinemap.wab-s.de  - World Wind Turbine Map.
 * http://www.leretourdelautruche.com/map/nuke - Nuclear Sectors around the world.
 * http://www.mapillary.com/app - Streetview-on-street hover Map.
+* https://streets.gl/ - Real-time 3D map visualizing OpenStreetMap data with a heavy focus on eye-candy features.
 
 ## Others 
 
