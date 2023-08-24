@@ -131,6 +131,7 @@
 * https://earth3dmap.com/earthquake-live-map/ - 3D Eartquake live Map.
 * https://earthquake.usgs.gov/earthquakes/map - Earthquakes from USGS.
 * https://www.lightningmaps.org - Real-time lightning data across the world.
+* https://firms.modaps.eosdis.nasa.gov/map/ - NASA Firms - Fire Information for Resource Management System
 
 
 
