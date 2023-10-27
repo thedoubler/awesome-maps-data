@@ -137,6 +137,7 @@
 
 ## World 
 
+* https://www.cfr.org/global-conflict-tracker -  World Conflict Tracker
 * https://maps.fm - Listen to location specific podcasts around the world.
 * https://worldpoverty.io - World Poverty Map.
 * https://population.io - World Populations map.
