@@ -46,9 +46,9 @@
 
 ## Cyber Threat Live Map
 
-* [Bitdefender Threatmap](https://threatmap.bitdefender.com)
-* [Checkpoint Threatmap](https://threatmap.checkpoint.com)
-* [Kaspersky Cyberthreat Real-Time Map](https://cybermap.kaspersky.com)
+* [Bitdefender Threatmap](https://threatmap.bitdefender.com) - Bitdefender threat map.
+* [Checkpoint Threatmap](https://threatmap.checkpoint.com) - Checkpoint threat map.
+* [Kaspersky Cyberthreat Real-Time Map](https://cybermap.kaspersky.com) - Kaspersky cyber map.
 
 ## Environment
 
