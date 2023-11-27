@@ -169,5 +169,6 @@
 * [Tip of My Tongue](https://chir.ag/projects/tip-of-my-tongue) - Helps find words that you can't remember.
 * [Fav Icon Map](https://iconmap.io) - Collection of website favicons displayed on a map.
 * [Hoodmaps](https://hoodmaps.com) - User-generated neighborhood maps.
+* [Periodic Table Of Tools](https://periodictableoftools.com/index.html) - Periodic Table of Tools
 
 
