@@ -42,6 +42,7 @@
 ## Crypto
 
 * [Bitnodes](https://bitnodes.io) - Estimating Bitcoin's peer-to-peer network size by identifying reachable nodes.
+* [Bitfeed Live](https://bitfeed.live/) - Bitcoin mempool visualizer and blockchain explorer.
 * [Cambridge Bitcoin Electricity Consumption Index - Mining Map](https://ccaf.io/cbeci/mining_map) - Bitcoin Mining Map.
 
 ## Cyber Threat Live Map
