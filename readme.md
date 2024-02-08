@@ -163,6 +163,8 @@
 * [Streets.gl](https://streets.gl/) - Real-time 3D map of OpenStreetMap data.
 * [World Metro Lines Map](https://www.metrolinemap.com/) - World Metro Lines map.
 * [Why Expensive](https://www.why-expensive.com/) - Google search for “why is/are … so expensive” in any language in each country and year between 2012 and 2023
+* [Nearby Wiki](https://en.nearbywiki.org/map) - Explore on a map, interesting places nearby listed on Wikipedia.
+
 
 ## Others
 
