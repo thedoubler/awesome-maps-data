@@ -73,6 +73,7 @@
 * [History Timeline](https://ybogdanov.github.io/history-timeline/) - The history of the world in famous people's lifespan.
 * [World Population History](https://worldpopulationhistory.org) - Interactive visualization of population from year 1 to 2050 projections.
 * [Google Earth Timelapse](https://earthengine.google.com/timelapse) - See how the Earth has changed since 1984.
+* [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - See where your city was 750 million years ago, with dinosaurs, across 26 time periods.
 
 ## Marine
 
