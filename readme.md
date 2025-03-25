@@ -165,6 +165,7 @@
 * [Streets.gl](https://streets.gl/) - Real-time 3D map of OpenStreetMap data.
 * [World Metro Lines Map](https://www.metrolinemap.com/) - World Metro Lines map.
 * [Nearby Wiki](https://en.nearbywiki.org/map) - Explore on a map, interesting places nearby listed on Wikipedia.
+* [TV.garden](https://tv.garden/) - Browse all TV station across the globe in 3D.
 
 
 ## Others
