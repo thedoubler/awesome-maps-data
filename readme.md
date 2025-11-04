@@ -167,6 +167,7 @@
 * [Nearby Wiki](https://en.nearbywiki.org/map) - Explore on a map, interesting places nearby listed on Wikipedia.
 * [TV.garden](https://tv.garden/) - Browse all TV station across the globe in 3D.
 * [MyRetroTVs](https://myretrotvs.com/) - Relive the nostalgia of past decades with these virtual TVs.
+* [ScaleOfUniverse](https://scaleofuniverse.com/en-gb) - Interactive journey through the vast visible and invisible universe.
 
 
 ## Others
