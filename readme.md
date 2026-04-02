@@ -146,6 +146,7 @@
 * [Open Camping Map](https://opencampingmap.org) - Worldwide camping sites map.
 * [Every Mountain](http://everymountainintheworld.com) - Map of every mountain peak in the world.
 * [Shadow Map](https://app.shadowmap.org) - See real-time shadows cast by buildings globally.
+* [Phantom Tide](https://phantom.labs.jamessawyer.co.uk/) - Real-time geospatial intelligence map for maritime and airspace monitoring with vessel tracking, flight activity, official notices, environmental context, and satellite detections.
 * [Maps for Free](https://maps-for-free.com) - Free relief maps and other layers.
 * [PlugShare](https://www.plugshare.com) - Electric vehicle charging station map.
 * [Fishery Restricted Areas Map](http://www.fao.org/gfcm/data/maps/fras/en) - Map of fishery restricted areas.
