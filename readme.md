@@ -129,6 +129,7 @@
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map) - Earthquake data from USGS.
 * [LightningMaps](https://www.lightningmaps.org) - Real-time lightning strike data.
 * [NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Fire Information for Resource Management System.
+* [Sunshine Atlas](https://sunshineatlas.com) - Interactive globe ranking 3,800+ destinations by monthly sunshine hours and climate.
 
 ## World
 
