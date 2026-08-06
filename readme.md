@@ -11,6 +11,7 @@
 * [Cyber Threat Live Map](#cyber-threat-live-map)
 * [Environment](#environment)
 * [Future](#future)
+* [Health](#health)
 * [History](#history)
 * [Marine](#marine)
 * [Music](#music)
@@ -62,6 +63,10 @@
 
 * [FutureTimeline](https://www.futuretimeline.net) - Browse how the future can be.
 * [Earth 2050](https://2050.earth) - A glimpse into the future.
+
+## Health
+
+* [Hantascan](https://hantascan.com) - Live global hantavirus map with reported cases, deaths, country totals, and outbreak locations.
 
 ## History
 
