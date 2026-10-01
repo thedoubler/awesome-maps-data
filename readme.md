@@ -118,6 +118,7 @@
 
 ## Weather
 
+* [AQI Tracker](https://aqitracker.com/) - Live air quality dashboard for Indian cities, with city comparisons and nearby monitoring stations.
 * [World Air Quality Index](https://waqi.info) - Real-time Air Quality Index.
 * [Ventusky](https://www.ventusky.com) - Various weather elements visualization.
 * [Earth Nullschool](https://earth.nullschool.net) - Interactive global weather conditions.
@@ -183,6 +184,5 @@
 * [Hoodmaps](https://hoodmaps.com) - User-generated neighborhood maps.
 * [Periodic Table Of Tools](https://periodictableoftools.com/index.html) - Periodic Table of Tools
 * [Why Expensive](https://www.why-expensive.com/) - Google search for “why is/are … so expensive” in any language in each country and year between 2012 and 2023
-
 
 
