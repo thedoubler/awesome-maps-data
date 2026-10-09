@@ -115,6 +115,7 @@
 * [OpenSnowMap](https://www.opensnowmap.org) - Worldwide ski trails map.
 * [World Stadium Database](https://www.worldstadiumdatabase.com/map-of-world-stadiums.htm) - World Stadium Map.
 * [Paragliding Earth](https://paraglidingearth.com/) - Free paragliding sites map.
+* [Mini Golf Spots](https://minigolfspots.com/courses) - Interactive map and directory of mini-golf courses in the United States.
 
 ## Weather
 
