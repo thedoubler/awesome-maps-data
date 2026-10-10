@@ -75,6 +75,7 @@
 * [Google Earth Timelapse](https://earthengine.google.com/timelapse) - See how the Earth has changed since 1984.
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - See where your city was 750 million years ago, with dinosaurs, across 26 time periods.
 * [Castlemap](https://thecastlemap.com) - Interactive night-map of the world's 2,400 great castles, fortresses and palaces, each with a photo and its story.
+* [biblical-atlas](https://biblical-atlas.geiser.cloud) - Map and timeline of the Bible moved by a single date: pick a year and see who was alive and where (in Spanish).
 
 ## Marine
 
