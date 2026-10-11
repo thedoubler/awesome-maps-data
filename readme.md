@@ -65,6 +65,7 @@
 
 ## History
 
+* [Discover Alone](https://discoveralone.com/) - Free map of over a million places across Ireland and Britain, with nearby search and source-linked records.
 * [Old Maps Online](https://www.oldmapsonline.org) - Discover Cartography of the past.
 * [Arcanum Maps](https://maps.arcanum.com/en) - Historical maps of several countries.
 * [Omnes Viae](https://omnesviae.org) - Reconstruction of antique Roman Map with Route Planner.
