@@ -35,6 +35,7 @@
 
 ## Animals
 
+* [KoreAves](https://koreaves.com/gis/) - Explore South Korean bird occurrence evidence by region, with linked sources and coverage limitations (not a live animal tracker).
 * [Ocearch Shark Tracker](https://www.ocearch.org/tracker) - Shark Tracker.
 * [Reef Tracks - Turtle Tracker](https://citizensgbr.org/explore/reef-tracks/ctrc-dianne) - Turtle Tracker.
 * [Movebank](https://www.movebank.org/cms/webapp) - Animal movements tracking data.
