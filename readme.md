@@ -140,6 +140,7 @@
 * [World Population Map](https://population.io) - Demographic data visualizations.
 * [World Water Scarcity](https://worldwater.io) - Map of global water scarcity issues.
 * [Submarine Cable Map](https://www.submarinecablemap.com) - Detailed global submarine cable map.
+* [Flock Locations](https://flocklocations.com/) - A public map of Flock Safety and ALPR camera locations.
 * [Hunger Map](https://hungermap.wfp.org) - Live map of world hunger by the World Food Programme.
 * [Submarine Cables 3D](https://globe.gl/example/submarine-cables) - 3D visualization of submarine cables.
 * [WiGLE](https://wigle.net) - Map of wireless networks around the world.
@@ -183,6 +184,5 @@
 * [Hoodmaps](https://hoodmaps.com) - User-generated neighborhood maps.
 * [Periodic Table Of Tools](https://periodictableoftools.com/index.html) - Periodic Table of Tools
 * [Why Expensive](https://www.why-expensive.com/) - Google search for “why is/are … so expensive” in any language in each country and year between 2012 and 2023
-
 
 
