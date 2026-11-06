@@ -171,6 +171,7 @@
 * [MyRetroTVs](https://myretrotvs.com/) - Relive the nostalgia of past decades with these virtual TVs.
 * [ScaleOfUniverse](https://scaleofuniverse.com/en-gb) - Interactive journey through the vast visible and invisible universe.
 * [WorldTrainMap](https://worldtrainmap.com/) - The world railway map - 1247 train routes.
+* [Earth Stats](https://earthstats.in) - Live world statistics on a 3D globe that turns to where each one is happening.
 
 
 ## Others
