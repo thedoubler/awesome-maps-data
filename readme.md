@@ -183,6 +183,7 @@
 * [Hoodmaps](https://hoodmaps.com) - User-generated neighborhood maps.
 * [Periodic Table Of Tools](https://periodictableoftools.com/index.html) - Periodic Table of Tools
 * [Why Expensive](https://www.why-expensive.com/) - Google search for “why is/are … so expensive” in any language in each country and year between 2012 and 2023
+* [London Tourist Map](https://londontouristmap.com/) - Free interactive map of about 400 London sights, with 17 themed maps and 17 day trips.
 
 
 
