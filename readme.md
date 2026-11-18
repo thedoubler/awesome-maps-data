@@ -51,6 +51,7 @@
 * [Bitdefender Threatmap](https://threatmap.bitdefender.com) - Bitdefender threat map.
 * [Checkpoint Threatmap](https://threatmap.checkpoint.com) - Checkpoint threat map.
 * [Kaspersky Cyberthreat Real-Time Map](https://cybermap.kaspersky.com) - Kaspersky cyber map.
+* [Whatoblock Live Threat Map](https://whatoblock.com/global-network) - Live map of attacks observed by a honeypot network of 229 sensors in 40 countries.
 
 ## Environment
 
