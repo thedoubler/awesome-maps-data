@@ -75,6 +75,8 @@
 * [Google Earth Timelapse](https://earthengine.google.com/timelapse) - See how the Earth has changed since 1984.
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - See where your city was 750 million years ago, with dinosaurs, across 26 time periods.
 * [Castlemap](https://thecastlemap.com) - Interactive night-map of the world's 2,400 great castles, fortresses and palaces, each with a photo and its story.
+* [Bible Places Map](https://christianpure.com/bible-places-map/) - Map of the 1,246 places the Bible names, from Genesis to Revelation, with the verses for each.
+* [Paul's Missionary Journeys Map](https://christianpure.com/pauls-missionary-journeys/) - Paul's three journeys and his voyage to Rome, stop by stop, with distances by Roman road and by sea.
 
 ## Marine
 
