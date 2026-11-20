@@ -9,6 +9,7 @@
 * [Animals](#animals)
 * [Crypto](#crypto)
 * [Cyber Threat Live Map](#cyber-threat-live-map)
+* [Energy](#energy)
 * [Environment](#environment)
 * [Future](#future)
 * [History](#history)
@@ -51,6 +52,10 @@
 * [Bitdefender Threatmap](https://threatmap.bitdefender.com) - Bitdefender threat map.
 * [Checkpoint Threatmap](https://threatmap.checkpoint.com) - Checkpoint threat map.
 * [Kaspersky Cyberthreat Real-Time Map](https://cybermap.kaspersky.com) - Kaspersky cyber map.
+
+## Energy
+
+* [Mineral Record](https://mineralrecord.com/pipelines) - Interactive map of 409,268 miles of Texas permitted oil and gas pipeline, from Railroad Commission T-4 filings.
 
 ## Environment
 
