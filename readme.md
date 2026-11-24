@@ -175,6 +175,7 @@
 
 ## Others
 
+* [H1DR4 Incident Map](https://h1dr4.dev/map) - Browse publicly reported incidents, including approximate locations from Police.uk, on a free interactive map.
 * [Virtual Vacation](https://virtualvacation.us) - Experience flying, walking, and driving in a virtual environment.
 * [Inside the Great Pyramid](https://giza.mused.org/en/guided/266/inside-the-great-pyramid) - Virtual tour inside the Great Pyramid.
 * [Magic Mushroom Map](https://www.magicmushroommap.com/map) - Map showing locations where magic mushrooms grow.
